@@ -1,0 +1,404 @@
+{
+		"entity.wraith.idle": {
+		"category": "entity",
+		"subtitle": "Wraith wails",
+		"sounds": [
+			{
+				"name": "dungeons_mobs:entities/wraith/idle1",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/wraith/idle2",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/wraith/idle3",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/wraith/idle4",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/wraith/idle5",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/wraith/idle6",
+				"stream": true
+			}
+		]
+	},
+			"entity.wraith.hurt": {
+		"category": "entity",
+		"subtitle": "Wraith hurts",
+		"sounds": [
+			{
+				"name": "dungeons_mobs:entities/wraith/hurt1",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/wraith/hurt2",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/wraith/hurt3",
+				"stream": true
+			}
+		]
+	},
+			"entity.wraith.death": {
+		"category": "entity",
+		"subtitle": "Wraith dies",
+		"sounds": [
+			{
+				"name": "dungeons_mobs:entities/wraith/death1",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/wraith/death2",
+				"stream": true
+			}
+		]
+	},
+			"entity.wraith.attack": {
+		"category": "entity",
+		"subtitle": "Wraith attacks",
+		"sounds": [
+			{
+				"name": "dungeons_mobs:entities/wraith/attack",
+				"stream": true
+			}
+		]
+	},
+			"entity.wraith.fire": {
+		"category": "entity",
+		"subtitle": "Wraith summons fire",
+		"sounds": [
+			{
+				"name": "dungeons_mobs:entities/wraith/fire",
+				"stream": true
+			}
+		]
+	},
+			"entity.wraith.fly": {
+		"category": "entity",
+		"subtitle": "Wraith flies",
+		"sounds": [
+			{
+				"name": "dungeons_mobs:entities/wraith/fly1",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/wraith/fly2",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/wraith/fly3",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/wraith/fly4",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/wraith/fly5",
+				"stream": true
+			}
+		]
+	},
+			"entity.wraith.teleport": {
+		"category": "entity",
+		"subtitle": "Wraith teleports",
+		"sounds": [
+			{
+				"name": "dungeons_mobs:entities/wraith/teleport1",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/wraith/teleport2",
+				"stream": true
+			}
+		]
+	},
+	
+	
+	
+	
+				"entity.enchanter.idle": {
+		"category": "entity",
+		"subtitle": "Enchanter Grumbles",
+		"sounds": [
+			{
+				"name": "dungeons_mobs:entities/enchanter/idle1",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/enchanter/idle2",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/enchanter/idle3",
+				"stream": true
+			}
+		]
+	},
+				"entity.enchanter.hurt": {
+		"category": "entity",
+		"subtitle": "Enchanter Hurts",
+		"sounds": [
+			{
+				"name": "dungeons_mobs:entities/enchanter/hurt1",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/enchanter/hurt2",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/enchanter/hurt3",
+				"stream": true
+			}
+		]
+	},
+				"entity.enchanter.death": {
+		"category": "entity",
+		"subtitle": "Enchanter Dies",
+		"sounds": [
+			{
+				"name": "dungeons_mobs:entities/enchanter/death1",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/enchanter/death2",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/enchanter/death3",
+				"stream": true
+			}
+		]
+	},
+				"entity.enchanter.pre_attack": {
+		"category": "entity",
+		"subtitle": "Enchanter Raises Book",
+		"sounds": [
+			{
+				"name": "dungeons_mobs:entities/enchanter/pre_attack1",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/enchanter/pre_attack2",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/enchanter/pre_attack3",
+				"stream": true
+			}
+		]
+	},
+				"entity.enchanter.attack": {
+		"category": "entity",
+		"subtitle": "Enchanter Attacks",
+		"sounds": [
+			{
+				"name": "dungeons_mobs:entities/enchanter/attack1",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/enchanter/attack2",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/enchanter/attack3",
+				"stream": true
+			}
+		]
+	},
+				"entity.enchanter.spell": {
+		"category": "entity",
+		"subtitle": "Enchanter Prepares To Enchant",
+		"sounds": [
+			{
+				"name": "dungeons_mobs:entities/enchanter/spell1",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/enchanter/spell2",
+				"stream": true
+			}
+		]
+	},
+				"entity.enchanter.beam": {
+		"category": "entity",
+		"subtitle": "Enchanter Enchants Mob",
+		"sounds": [
+			{
+				"name": "dungeons_mobs:entities/enchanter/beam",
+				"stream": true
+			}
+		]
+	},
+				"entity.enchanter.beam_loop": {
+		"category": "entity",
+		"sounds": [
+			{
+				"name": "dungeons_mobs:entities/enchanter/beam_loop",
+				"stream": true
+			}
+		]
+	},
+	
+	
+	
+	
+	
+		"entity.geomancer.idle": {
+		"category": "entity",
+		"subtitle": "Geomancer Cackles",
+		"sounds": [
+			{
+				"name": "dungeons_mobs:entities/geomancer/idle1",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/geomancer/idle2",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/geomancer/idle3",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/geomancer/idle4",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/geomancer/idle5",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/geomancer/idle6",
+				"stream": true
+			}
+		]
+	},
+			"entity.geomancer.hurt": {
+		"category": "entity",
+				"subtitle": "Geomancer Hurts",
+		"sounds": [
+			{
+				"name": "dungeons_mobs:entities/geomancer/hurt1",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/geomancer/hurt2",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/geomancer/hurt3",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/geomancer/hurt4",
+				"stream": true
+			}
+		]
+	},
+			"entity.geomancer.death": {
+		"category": "entity",
+				"subtitle": "Geomancer Dies",
+		"sounds": [
+			{
+				"name": "dungeons_mobs:entities/geomancer/death1",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/geomancer/death2",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/geomancer/death3",
+				"stream": true
+			}
+		]
+	},
+			"entity.geomancer.pre_attack": {
+		"category": "entity",
+				"subtitle": "Geomancer Prepares Geomancy",
+		"sounds": [
+			{
+				"name": "dungeons_mobs:entities/geomancer/pre_attack1",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/geomancer/pre_attack2",
+				"stream": true
+			}
+		]
+	},
+			"entity.geomancer.attack": {
+		"category": "entity",
+						"subtitle": "Geomancer Summons Pillars",
+		"sounds": [
+			{
+				"name": "dungeons_mobs:entities/geomancer/attack1",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/geomancer/attack",
+				"stream": true
+			}
+		]
+	},
+			"entity.geomancer.wall_spawn": {
+		"category": "entity",
+						"subtitle": "Geomancer Wall Emerges",
+		"sounds": [
+			{
+				"name": "dungeons_mobs:entities/geomancer/wall_spawn1",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/geomancer/wall_spawn2",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/geomancer/wall_spawn3",
+				"stream": true
+			}
+		]
+	},
+			"entity.geomancer.wall_despawn": {
+		"category": "entity",
+						"subtitle": "Geomancer Wall Vanishes",
+		"sounds": [
+			{
+				"name": "dungeons_mobs:entities/geomancer/wall_despawn1",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/geomancer/wall_despawn2",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/geomancer/wall_despawn3",
+				"stream": true
+			}
+		]
+	},
+			"entity.geomancer.bomb_spawn": {
+		"category": "entity",
+						"subtitle": "Geomancer Bomb Emerges",
+		"sounds": [
+			{
+				"name": "dungeons_mobs:entities/geomancer/bomb_spawn1",
+				"stream": true
+			},
+						{
+				"name": "dungeons_mobs:entities/geomancer/bomb_spawn2",
+				"stream": true
+			}
+		]
+	}
+}

@@ -1,0 +1,35 @@
+{
+  "required": true,
+  "package": "com.infamous.dungeons_mobs.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.8",
+  "refmap": "dungeons_mobs.refmap.json",
+  "mixins": [
+    "AbstractArrowEntityMixin",
+    "AbstractHorseEntityMixin",
+    "ArrowAccessor",
+    "BrainAccessor",
+    "CropsBlockMixin",
+    "DrownedEntityMixin",
+    "GoalSelectorAccessor",
+    "MansionTemplateMixin",
+    "PatrolSpawnerMixin",
+    "PiglinAccessor",
+    "PiglinEntityMixin",
+    "RaidMixin",
+    "SpiderEntityMixin",
+    "TridentEntityMixin",
+    "WitherSkeletonEntityMixin",
+    "ZombifiedPiglinEntityMixin"
+  ],
+  "client": [
+    "DrownedModelMixin",
+    "ItemRendererMixin",
+    "PiglinModelMixin",
+    "SpiderModelMixin",
+    "TridentRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
