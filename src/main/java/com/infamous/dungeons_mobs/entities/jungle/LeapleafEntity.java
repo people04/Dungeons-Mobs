@@ -141,7 +141,7 @@ public class LeapleafEntity extends MonsterEntity implements IAnimatable {
         this.goalSelector.addGoal(0, new SwimGoal(this));
         this.goalSelector.addGoal(1, new WaterAvoidingRandomWalkingGoal(this, 0.76D));
         this.goalSelector.addGoal(1, new LeapleafEntity.LeapGoal());
-        this.goalSelector.addGoal(1, new LeapleafEntity.AttackGoal(this,1.1));
+        this.goalSelector.addGoal(2, new LeapleafEntity.AttackGoal(this,1.1));
         this.goalSelector.addGoal(0, new LeapleafEntity.LeapMeleeGoal());
         this.goalSelector.addGoal(0, new LeapleafEntity.MeleeGoal());
         this.goalSelector.addGoal(0, new LeapleafEntity.RestGoal());
