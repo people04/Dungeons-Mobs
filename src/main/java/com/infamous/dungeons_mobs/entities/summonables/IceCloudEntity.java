@@ -177,6 +177,11 @@ public class IceCloudEntity extends Entity implements IAnimatable {
         	}
         }
         
+		if (this.isInWall()) {
+			this.setDeltaMovement(0, 0, 0);
+			this.moveTo(this.getX(), this.getY(1), this.getZ());
+		}
+	    
         RayTraceResult raytraceresult = ProjectileHelper.getHitResult(this, this::canHitEntity);
         boolean flag = false;
         if (raytraceresult.getType() == RayTraceResult.Type.BLOCK) {
